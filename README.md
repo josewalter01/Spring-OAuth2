@@ -14,7 +14,7 @@ Spring OAuth2 is a project that trains authentication and authorization with del
 
 - Bash
 
-`git clone https://github.com/jose-techcode/Spring-OAuth2`
+`git clone https://github.com/josewalter01/Spring-OAuth2`
 
 # 4. Setting Environment Variable
 
